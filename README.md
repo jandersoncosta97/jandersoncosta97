@@ -49,7 +49,7 @@ I am passionate about improving my hard skills and learning software development
 
 #### In Target
 - **Machine Learning in food and water safety:** Predicting chemical components in water and food products.
-- **apps(They may appear here in future): goal - human development, higher profits, connections**
+- **apps (They may appear here in future): goal - human development, higher profits, connections**
 
 #### Enhancing
 - **Computer vision:**
