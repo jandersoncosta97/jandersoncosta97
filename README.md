@@ -1,6 +1,6 @@
 
 <h2 align="left">Hey there! You can call me Janderson. </h2> 
-<h3>I'm passionate about technology to enhance the well-being of humans, society, and the earth's prosperity. I'm from Recife-PE, Brazil. </h3>
+<h3>I'm passionate about technology for enhancing the well-being of humans, society, and the earth's prosperity. I'm from Recife-PE, Brazil. </h3>
 
 <p align="left">
 <!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
