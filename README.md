@@ -99,7 +99,7 @@ I am passionate about improving my hard skills and learning software development
 ---
 
 ### 📊 GitHub Stats:
-**HAS TO UPDATE, CONTAINS INCORRECT DATA***
+
 <p>
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jandersoncosta97&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> -->
 </p>
