@@ -48,7 +48,8 @@ I am passionate about improving my hard skills and learning software development
 
 
 #### In Target
-  **IT in Neuroscience**
+  **IT support for Neuroscience**
+  
   **Protocol for Lanthanide electronic population evaluation**
 - **Machine Learning to pH measurement**
 
