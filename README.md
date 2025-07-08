@@ -120,7 +120,7 @@ I am passionate about improving my hard skills and learning software development
 
 
 ### Shadows:
-- Specific social situations
+- Always improving!
 
 I think non-local interference exists.
 
