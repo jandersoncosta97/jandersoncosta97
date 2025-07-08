@@ -51,6 +51,7 @@ I am passionate about improving my hard skills and learning software development
   **IT support for Neuroscience**
   
   **Protocol for Lanthanide electronic population evaluation**
+  
 - **Machine Learning to pH measurement**
 
 #### Enhancing
