@@ -13,8 +13,17 @@
 
 ---
 
-### 🌱 I’m currently learning more about:
-- **OpenCV-Python and Supportive Image Processing Libraries, Advancing on Operational Systems features, and Computer Networking**
+### 🌱 In the IT field itself, I’m currently learning more about:
+- **OpenCV-Python**
+- **Image Processing Libraries**
+- **Advancing on Operational Systems**
+- **Computer Networking**
+- **OOP with Python**
+- 
+### 🌱 In the artistic fields, I’m currently learning more about:
+- **Realistic Draw**
+- **Fanart Market**
+
 
 ### 🌱 As a consequence, I'm enhancing in:
 - **Ubuntu Bash**
@@ -23,8 +32,6 @@
 - **Conda**
 - **Git**
 
-The (**Ubuntu Bash, CMD, Powershell**) was known as a basic-level (recursive task, search for files/folders recursively, check ports, install/uninstall packages, cleanups, ..., often within minor-to-regular guidance) skill. Nowadays, I consider a basic-to-intermediate skill, since last year (2025) I worked on the Residency on Robotics and Artificial Intelligence. There, I could apply and learn about Git and Conda.
-
 I have worked on:
 
 - **State Machine**
@@ -32,30 +39,20 @@ I have worked on:
 - **Android Debugger Bridge (ADB)**
 - **Open AI API**
 
+
 ---
-
 ### 💬 Ask me about:
-- **Image Processing, Open AI API, CMD & Powershell**
-
-
-### 🎯 Enhances, Wishes and Goals:
-I am passionate about improving my hard skills and learning software development to apply to science and human ecosystems, including:
-#### One-day
-
-- **Microplastic management in natural resources:** Detection, quantification, monitoring, and management using software, robotic devices, databases, Machine Learning, and computer vision.
-- **Health impacts of microplastics:** Research on side effects, awareness, prevention, and future problems related to microplastics.
-- **AI in juridical investigations:** Use AI for pulse, body language, personality traits, voice, and facial expressions to assist law, but ultimately, to support the evolution of people's self-awareness and efforts to a prosperous society. So that "proof" of crime does not have to be deterministic. Juridical psychologists and understanding people's behavior and features can be a paradigm shift for Brazil's law system. The goal is to force collective well-being, not to separate people (there are many other conditions and features of such a project). 
+- **Open AI API, CMD & Powershell**
 
 
 #### In Target
-  **IT support for Neuroscience**
+  **Artistic works with computers**
   
   **Protocol for Lanthanide electronic population evaluation**
   
-- **Machine Learning to pH measurement**
+- **Machine Learning for emotional states prediction**
 
-#### Enhancing
-- **Computer vision:**
+- **Educational tests to study human cognition, conditions, diagnosis, and functioning"**
 
 
 ### 💻 Background:
@@ -114,14 +111,15 @@ I am passionate about improving my hard skills and learning software development
 ---
 
 ### ⚡ Fun facts:
-- I am fun doing **martial arts**, **scientific jokes**, in **friendship**, and  **doing crazy**
-- I love **hacking**, though I haven’t pursued it professionally
-- High perceptive skills
+- I am fun doing **martial arts**, **scientific jokes**
+- I love one-to-one intimacy
+- I have practiced the tantra wisdoms
+- I have been practicing meditation consciously since 2019.
 
 
 ### Shadows:
 - Always improving!
+- Jung helped me! hahahha
 
-I think non-local interference exists.
 
 Tech and Science and Livings 😁😊
