@@ -15,17 +15,14 @@
 
 ### 🌱 In the IT field itself, I’m currently learning more about:
 - **OpenCV-Python**
-- **Image Processing Libraries**
+- **Image Processing**
 - **Advancing on Operational Systems**
 - **Computer Networking**
 - **OOP with Python**
 - 
-### 🌱 In the artistic fields, I’m currently learning more about:
-- **Realistic Draw**
-- **Fanart Market**
 
 
-### 🌱 As a consequence, I'm enhancing in:
+### 🌱 I'm enhancing a little bit in:
 - **Ubuntu Bash**
 - **CMD**
 - **Powershell**
@@ -56,6 +53,7 @@ I have worked on:
 
 
 ### 💻 Background:
+- **chemistry** Physical Chemistry, Inorganic Chemistry
 - **Robotics APIs:** Nyrio Ned API, Kinova API, Denso API.
 - **AI:** YOLO v8, PyTorch, TensorFlow.
 - **ROS**: ROS 1.
@@ -64,8 +62,7 @@ I have worked on:
 - **IT Support:** Completed Modules 1-4 on Coursera
 - **Physics Research and Summer Courses**
 - **Spectroscopy techniques**
-- **Cosmology**
-- **Up-Basic Standard Quantum Mechanics**
+- **Basic Standard Quantum Mechanics**
 ---
 
 ### 🔧 Languages and Tools:
@@ -113,13 +110,6 @@ I have worked on:
 ### ⚡ Fun facts:
 - I am fun doing **martial arts**, **scientific jokes**
 - I love one-to-one intimacy
-- I have practiced the tantra wisdoms
-- I have been practicing meditation consciously since 2019.
+- I started the practice of meditation consciously in 2019.
 
 
-### Shadows:
-- Always improving!
-- Jung helped me! hahahha
-
-
-Tech and Science and Livings 😁😊
