@@ -19,7 +19,6 @@
 - **Advancing on Operational Systems**
 - **Computer Networking**
 - **OOP with Python**
-- 
 
 
 ### 🌱 I'm enhancing a little bit in:
