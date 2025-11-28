@@ -14,11 +14,10 @@
 ---
 
 ### 🌱 In the IT field itself, I’m currently learning more about:
-- **OpenCV-Python**
-- **Image Processing**
+
 - **Advancing on Operational Systems**
 - **Computer Networking**
-- **OOP with Python**
+
 
 
 ### 🌱 I'm enhancing a little bit in:
@@ -38,17 +37,13 @@ I have worked on:
 
 ---
 ### 💬 Ask me about:
-- **Open AI API, CMD & Powershell**
+- **Open AI API, CMD, Python**
 
 
 #### In Target
-  **Artistic works with computers**
   
   **Protocol for Lanthanide electronic population evaluation**
-  
-- **Machine Learning for emotional states prediction**
 
-- **Educational tests to study human cognition, conditions, diagnosis, and functioning"**
 
 
 ### 💻 Background:
