@@ -44,7 +44,7 @@ I have worked on:
 
 ### 💻 Background:
 - **chemistry (with endorsements)** Physical Chemistry, Inorganic Chemistry, Spectroscopy
-- 
+  
 - **Robotics APIs:** Nyrio Ned API, Kinova API, Denso API.
 - **AI:** YOLO v8, PyTorch, TensorFlow.
 - **ROS**: ROS 1.
