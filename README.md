@@ -17,10 +17,6 @@
 
 - **Advancing on Operational Systems**
 - **Computer Networking**
-
-
-
-### 🌱 I'm enhancing a little bit in:
 - **Ubuntu Bash**
 - **CMD**
 - **Powershell**
@@ -37,7 +33,7 @@ I have worked on:
 
 ---
 ### 💬 Ask me about:
-- **Open AI API, CMD, Python**
+- **CMD, Python, Conda, Git**
 
 
 #### In Target
@@ -47,16 +43,15 @@ I have worked on:
 
 
 ### 💻 Background:
-- **chemistry** Physical Chemistry, Inorganic Chemistry
+- **chemistry (with endorsements)** Physical Chemistry, Inorganic Chemistry, Spectroscopy
+- 
 - **Robotics APIs:** Nyrio Ned API, Kinova API, Denso API.
 - **AI:** YOLO v8, PyTorch, TensorFlow.
 - **ROS**: ROS 1.
 - **Image Processing**: OpenCV-Python, Pillow, PLT
 - **Scientific Research:** Simulations using RK4 in Fortran and Python during a Master’s in Materials Science (Luminescent materials)
 - **IT Support:** Completed Modules 1-4 on Coursera
-- **Physics Research and Summer Courses**
 - **Spectroscopy techniques**
-- **Basic Standard Quantum Mechanics**
 ---
 
 ### 🔧 Languages and Tools:
