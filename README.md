@@ -101,9 +101,5 @@ I have worked on:
 
 ---
 
-### ⚡ Fun facts:
-- I am fun doing **martial arts**, **scientific jokes**
-- I love one-to-one intimacy
-- I started the practice of meditation consciously in 2019.
 
 
