@@ -49,8 +49,8 @@ I have worked on:
 - **AI:** YOLO v8, PyTorch, TensorFlow.
 - **ROS**: ROS 1.
 - **Image Processing**: OpenCV-Python, Pillow, PLT
-- **Scientific Research:** Simulations using RK4 in Fortran and Python during a Master’s in Materials Science (Luminescent materials)
-- **IT Support:** Completed Modules 1-4 on Coursera
+- **Scientific Research:** Simulations using RK4 in Fortran and Python during a Master’s degree in Materials Science (Luminescent materials)
+- **IT Support:** Completed Modules 1-3 on Coursera
 - **Spectroscopy techniques**
 ---
 
